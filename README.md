@@ -1,5 +1,5 @@
 # ![java](https://openjdk.java.net/images/duke-thinking.png) Java Features ![java](https://openjdk.java.net/images/duke-thinking.png)
-__Soumen Karmakar__
+## `Soumen Karmakar`
 #### JDK 8 (LTS)
 * language-level support for lambda expressions and default methods (virtual extension methods) which allow the addition of methods to interfaces without breaking existing implementations.
 * Project Nashorn, a JavaScript runtime which allows developers to embed JavaScript code within applications
