@@ -11,7 +11,7 @@ public class SwithChanges {
             case MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY -> false;
             case SATURDAY, SUNDAY -> true;
             default -> throw new IllegalStateException("Illegal day entry :: " + day);
-        }
+        };
     }
     enum Day{
         MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY,SUNDAY
